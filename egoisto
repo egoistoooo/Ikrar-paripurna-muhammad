@@ -4,13 +4,13 @@ on:
   workflow_dispatch:
     inputs:
       agent_name:
-        description: 'egoisto'
+        description: 'egoistoooo'
         required: true
-        default: 'egoisto'
+        default: 'egoistoooo'
       agent_description:
-        description: 'egoisto'
+        description: 'egoistoooo'
         required: true
-        default: 'egoisto AI Agent'
+        default: 'egoistoooo AI Agent'
 
 jobs:
   verify:
